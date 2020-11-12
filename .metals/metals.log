@@ -23,3 +23,16 @@ WARNING: Unmatched cancel notification for request id 112
 2020.11.12 11:55:21 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala
 2020.11.12 11:57:22 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala
 2020.11.12 11:57:37 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala
+2020.11.12 11:58:04 INFO  shutting down Metals
+2020.11.12 11:58:16 INFO  Started: Metals version 0.9.5 in workspace '/h/d7/y/er8806le-s/Desktop/w09_words' for client vscode.
+2020.11.12 11:58:18 INFO  time: initialize in 1.63s
+2020.11.12 11:58:18 WARN  Build server is not auto-connectable.
+2020.11.12 11:58:18 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala
+2020.11.12 11:58:19 INFO  skipping build import with status 'Requested'
+2020.11.12 11:58:21 INFO  no build target: using presentation compiler with only scala-library
+2020.11.12 11:58:49 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Main.scala
+2020.11.12 12:10:56 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Main.scala
+2020.11.12 12:10:56 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Main.scala
+2020.11.12 12:10:56 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Main.scala
+2020.11.12 12:10:57 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Main.scala
+2020.11.12 12:10:57 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Main.scala
