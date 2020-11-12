@@ -3,3 +3,6 @@ console
 compile
 sompile
 compile
+console
+~compile
+compile

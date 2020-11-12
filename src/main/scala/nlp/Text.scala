@@ -1,5 +1,7 @@
 package nlp
 
+import scala.collection.mutable.ResizableArray
+
 case class Text(source: String){
   lazy val words: Vector[String] = {
     var sourceFiltered = source.toLowerCase()
@@ -21,7 +23,14 @@ case class Text(source: String){
   lazy val bigrams: Vector[(String, String)] =
     ngrams(2).map(xs => (xs(0), xs(1)))
 
-  lazy val followFreq: Map[String, Map[String, Int]] = ??? //nästlad tabell
+  lazy val followFreq: Map[String, Map[String, Int]] = {
+    val result = scala.collection.mutable.Map.empty[String, FreqMapBuilder]
+    for ((key,next) <- bigrams) {
+      if (result.isDefinedAt(key)) result += (key -> FreqMapBuilder(next))
+      else result += (key -> FreqMapBuilder(next))
+    }
+    result.map(p => p._1 -> p._2.toMap).toMap
+  } //nästlad tabell
 
   lazy val follows: Map[String, String] =
     followFreq.map { case (key, followMap) => 

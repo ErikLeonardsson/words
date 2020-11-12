@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala:3:8: object ResizableArray is not a member of package scala.collection.mutable[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.collection.mutable.ResizableArray[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

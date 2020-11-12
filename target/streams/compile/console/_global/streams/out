@@ -7,5 +7,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mInterrupting remaining threads (should be all daemons).[0m
 [0m[[0m[0mdebug[0m] [0m[0mInterrupting thread JLine Shutdown Hook[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Interrupted JLine Shutdown Hook[0m
+[0m[[0m[0mdebug[0m] [0m[0mInterrupting thread Timer-0[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interrupted Timer-0[0m
 [0m[[0m[0mdebug[0m] [0m[0mSandboxed run complete..[0m
 [0m[[0m[0mdebug[0m] [0m[0mExited with code 0[0m

@@ -13,3 +13,13 @@ Nov 12, 2020 11:14:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 7
 Nov 12, 2020 11:15:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTraceNotification
+something's wrong: no file:///h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala in Map[Int,Set[String]]RangePosition(file:///h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala, 574, 574, 595)
+Nov 12, 2020 11:34:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 112
+2020.11.12 11:53:59 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala
+2020.11.12 11:54:41 WARN  code navigation does not work for the file '/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala' because it doesn't belong to a build target.
+2020.11.12 11:54:41 WARN  code navigation does not work for the file '/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala' because it doesn't belong to a build target.
+2020.11.12 11:54:41 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala
+2020.11.12 11:55:21 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala
+2020.11.12 11:57:22 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala
+2020.11.12 11:57:37 WARN  no build target for: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala

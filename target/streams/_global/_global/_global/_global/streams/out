@@ -1,0 +1,41 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [w09_words / Compile / compile] Found inputs: /h/d7/y/er8806le-s/Desktop/w09_words/*.{java,scala},/h/d7/y/er8806le-s/Desktop/w09_words/src/main/java/**/*.{java,scala},/h/d7/y/er8806le-s/Desktop/w09_words/src/main/resources/**/*,/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/**/*.{java,scala},/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for w09_words/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mw09_words / Compile / compile - Accepted event for /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mw09_words / Compile / compile - Accepted event for /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala (previous stamp: Hash(ec4a355698ecef5ad7a9292f3ac760a4e6413767), current stamp: Hash(50a3806ff9520161800e81ab511fbc496adaca26))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala -> Trigger. Returning: (Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala, 2020-Nov-12 11:54:41.940 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala, 2020-Nov-12 11:54:41.940 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for w09_words/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala. This event occurred 6 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mw09_words / Compile / compile - Accepted event for /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala (previous stamp: Hash(50a3806ff9520161800e81ab511fbc496adaca26), current stamp: Hash(b31ae2e6c373e32d68333a91818bef08f0d6cf10))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala -> Trigger. Returning: (Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala, 2020-Nov-12 11:55:21.170 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala, 2020-Nov-12 11:55:21.170 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for w09_words/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mw09_words / Compile / compile - Accepted event for /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mw09_words / Compile / compile - Accepted event for /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala (previous stamp: Hash(b31ae2e6c373e32d68333a91818bef08f0d6cf10), current stamp: Hash(7b147fd31160b77085f02ab14a210260d805663c))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala -> Trigger. Returning: (Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala, 2020-Nov-12 11:57:22.948 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala, 2020-Nov-12 11:57:22.948 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m4. Monitoring source files for w09_words/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /h/d7/y/er8806le-s/Desktop/w09_words/src/main/scala/nlp/Text.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
